@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto formulário" src="https://imgur.com/a/dqO3CBe" width="100%">
+  <img alt="projeto formulário" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Formulário é um projeto muito interessante de desenvolver, além de sua aplicação muito importante nos dias atuais.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://villa11rubia.github.io/desafio_formulario_02/)
 
 - [Minhas redes sociais](https://linktr.ee/villaRubia)
 
